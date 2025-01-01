@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "S241013.Cartoon29.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "S241013.Cartoon29 1.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "S241013.Cartoon29 2.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
